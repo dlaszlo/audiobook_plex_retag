@@ -1,6 +1,6 @@
 # README #
 
-MP3-ak újra tag-elése, hogy a PLEX média szerver megfelelően olvassa fel a hangoskönyv albumokat.
+MP3-ak újra tag-elése, hogy a PLEX média szerver megfelelően olvassa be a hangoskönyv albumokat.
 
 ## Könyvtár szerkezet ##
 
