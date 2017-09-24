@@ -30,7 +30,7 @@ Be kell lépni a könyvtárba, ami az MP3-akat tartalmazza, és el kell indítan
 
 ## Aktuális könyvtárból nyíló összes alkönyvtár tartalmának (mp3) konvertálása ##
 
-Be kell lépni a könyvtárba, ami az MP3-akat tartalmazza, és el kell indítani a következő script-et:
+Be kell lépni a könyvtárba, ami az albumokat tartalmazza, és el kell indítani a következő script-et:
 
 ./audiobook_tag_all.sh
 
