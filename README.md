@@ -43,3 +43,6 @@ A script törli az összes mp3 tag-et, és beállítja a következő tag-eket:
 * Cím = Szerző - Album - Track szám
 * Track szám = sorszám
 
+## Függőség ##
+
+* mid3v2
